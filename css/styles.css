@@ -1,0 +1,13 @@
+.description {
+    color: red;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif
+}
+
+#main {
+    background-color: blueviolet;
+}
